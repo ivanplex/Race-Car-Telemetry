@@ -1,0 +1,17 @@
+Camera Line Read:
+
+	128 pixel long
+	0-4500 pixel depth 
+
+	Output: centre position: single integer
+
+Servo:
+
+	Float: from -1 to 1 ; 0 approx driving straight
+	
+pwm: 
+
+	Float from 0 to 1
+
+PID Poportional integrate diff
+3 var
